@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Form-Modal/static/css/main.176b4e0a.css",
+    "main.js": "/React-Form-Modal/static/js/main.dc039827.js",
+    "index.html": "/React-Form-Modal/index.html",
+    "main.176b4e0a.css.map": "/React-Form-Modal/static/css/main.176b4e0a.css.map",
+    "main.dc039827.js.map": "/React-Form-Modal/static/js/main.dc039827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b4e0a.css",
+    "static/js/main.dc039827.js"
+  ]
+}
