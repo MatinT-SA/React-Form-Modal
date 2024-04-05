@@ -1,1 +1,1 @@
-A simple ReactJS modal UI
+A simple ReactJS modal UI for adding user
